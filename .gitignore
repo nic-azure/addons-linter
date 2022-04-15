@@ -36,3 +36,4 @@ web-ext/
 yarn.lock
 .DS_Store
 tmp/
+.circleci/fucking-algorithm/
