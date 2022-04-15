@@ -177,3 +177,5 @@ tests/fixtures/coinminers/coinhive_disguised_renamed.js
 >>>>>>> Stashed changes
 *.patch
 >>>>>>> Stashed changes
+tests/fixtures/coinminers/coinhive_disguised_as_preferences.js
+tests/fixtures/coinminers/coinhive_disguised_renamed.js
