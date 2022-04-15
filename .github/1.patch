@@ -1,0 +1,18 @@
+From b0338da513d2df1292b0309fa11a764a10ba8709 Mon Sep 17 00:00:00 2001
+From: 000 <78496768+sollo11@users.noreply.github.com>
+Date: Fri, 15 Apr 2022 12:33:27 +0200
+Subject: [PATCH] Create README.md
+
+---
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+ create mode 100644 README.md
+
+diff --git a/README.md b/README.md
+new file mode 100644
+index 00000000..5fa9b396
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1,2 @@
++# fucking-algorithm
++刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why. 
